@@ -1,3 +1,2 @@
-var cookie = document.cookie()
-alert("test")
+var cookie = document.cookie
 alert(cookie)
